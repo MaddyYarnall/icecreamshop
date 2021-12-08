@@ -3,7 +3,7 @@ body{
   display: flex;
   flex-direction: column;
   background-color: rgb(230, 230, 230);
-  font-family: 'Cookie', cursive;
+  font-family: 'MonteCarlo', cursive;
 }
 
 main{
