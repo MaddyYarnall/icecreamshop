@@ -2,7 +2,7 @@ body{
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: rgb(156, 156, 156);
+  background-color: rgb(230, 230, 230);
   font-family: 'Cookie', cursive;
 }
 
